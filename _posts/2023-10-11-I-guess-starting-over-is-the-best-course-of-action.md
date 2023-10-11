@@ -11,3 +11,5 @@ so I guess it's whatever.
 
 Not sure if I will keep writing here or not, though I would really like to get a theme in place. And maybe the 
 ability to comment. Who knows. 
+
+This site seems promising: https://aleksandrhovhannisyan.com/blog/jekyll-comment-system-github-issues/

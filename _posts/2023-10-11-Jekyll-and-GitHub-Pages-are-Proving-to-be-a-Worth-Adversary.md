@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Jekyll and GitHub Pages are Proving to be a Worth Adversary 
+title: Jekyll and GitHub Pages are Proving to be a Worthy Adversary 
 date: '2023-10-11 16:46:05.55 -0400' 
 --- 
 I've been messing with this thing all day long, off and on while grading papers, and it just won't work the way 

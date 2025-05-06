@@ -14,9 +14,9 @@ nano $date-${title,,}.md
 
 echo $date-${title,,}.md
 
-echo Delete post filename with todays date? \(Do this if you are back-dating posts\) [y/n]?
-read delToday
-if $delToday==y ( del $date-${title,,}.md )
+#echo Delete post filename with todays date? \(Do this if you are back-dating posts\) [y/n]?
+#read delToday
+#if $delToday==y ( del $date-${title,,}.md )
 
 #echo $date-${title,,}.md
 #echo title: \'$s\'
